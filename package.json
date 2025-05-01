@@ -1,0 +1,25 @@
+{
+  "name": "typescript-api",
+  "version": "1.0.0",
+  "description": "Typescript Node.js API",
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "api"
+  ],
+  "homepage": "https://github.com/Gustav-Smith/node-typescript-api#readme",
+  "bugs": {
+    "url": "https://github.com/Gustav-Smith/node-typescript-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustav-Smith/node-typescript-api.git"
+  },
+  "license": "ISC",
+  "author": "gustavj3an",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
